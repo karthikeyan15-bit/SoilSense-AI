@@ -1,0 +1,78 @@
+{
+  "sourceFile": "data/raw/soil_health_india/national_pilot_sample.csv",
+  "processedAt": "2026-11-23T10:17:40.423Z",
+  "totalRawRows": 15,
+  "validCleanedRows": 13,
+  "duplicateRowsRemoved": 1,
+  "outlierRowsFlagged": 1,
+  "missingValueCounts": {
+    "fiscal_year": 0,
+    "state": 0,
+    "district": 0,
+    "village": 0,
+    "latitude": 0,
+    "longitude": 0,
+    "nitrogen": 0,
+    "phosphorus": 1,
+    "potassium": 0,
+    "sulphur": 0,
+    "organic_carbon": 0,
+    "ph": 0,
+    "ec": 0,
+    "boron": 0,
+    "iron": 0,
+    "zinc": 1,
+    "copper": 0,
+    "manganese": 0,
+    "unit_npk": 0,
+    "data_quality_notes": 0
+  },
+  "unitConsistencyVerified": true,
+  "districtsCovered": [
+    "Bareilly",
+    "Guntur",
+    "Indore",
+    "Jaipur",
+    "Jorhat",
+    "Karnal",
+    "Kolhapur",
+    "Ludhiana",
+    "Mandya",
+    "Palakkad",
+    "Patna",
+    "Purba Bardhaman",
+    "Sri Ganganagar",
+    "Thanjavur"
+  ],
+  "statesCovered": [
+    "Andhra Pradesh",
+    "Assam",
+    "Bihar",
+    "Haryana",
+    "Karnataka",
+    "Kerala",
+    "Madhya Pradesh",
+    "Maharashtra",
+    "Punjab",
+    "Rajasthan",
+    "Tamil Nadu",
+    "Uttar Pradesh",
+    "West Bengal"
+  ],
+  "anomalies": [
+    {
+      "rowNumber": 15,
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "village": "Jagraon",
+      "reason": "Exact geographic-temporal duplicate record removed."
+    },
+    {
+      "rowNumber": 16,
+      "state": "Rajasthan",
+      "district": "Jaipur",
+      "village": "Chomu",
+      "reason": "Out-of-range soil pH (11.9); valid agronomic bounds are 3.0–10.5."
+    }
+  ]
+}

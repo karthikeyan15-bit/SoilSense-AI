@@ -1,0 +1,14 @@
+fiscal_year,state,district,village,latitude,longitude,nitrogen,phosphorus,potassium,sulphur,organic_carbon,ph,ec,boron,iron,zinc,copper,manganese,unit_npk,data_quality_notes
+2024-25,Karnataka,Mandya,Maddur,12.5842,77.0448,245,18.4,268,12.5,0.62,6.9,0.42,0.58,11.2,0.52,1.15,8.4,kg/ha,Verified SHC sample
+2024-25,Karnataka,Mandya,Pandavapura,12.4950,76.6675,218,14.2,240,9.4,0.54,7.2,0.51,0.46,9.8,0.48,0.92,7.1,kg/ha,Verified SHC sample
+2024-25,Karnataka,Mysuru,Nanjangud,12.1190,76.6820,262,21.0,295,14.1,0.68,7.1,0.38,0.64,10.5,0.68,1.22,9.2,kg/ha,Verified SHC sample
+2024-25,Karnataka,Belagavi,Gokak,16.1691,74.8239,235,16.5,380,15.2,0.58,7.9,0.74,0.72,5.4,0.44,1.35,6.8,kg/ha,Black cotton soil profile
+2024-25,Karnataka,Dharwad,Navalgund,15.5655,75.3522,224,13.8,410,13.0,0.51,8.1,0.68,0.61,4.8,0.41,1.18,5.9,kg/ha,Vertisol alkaline profile
+2024-25,Karnataka,Davanagere,Harihar,14.5131,75.8058,274,23.5,310,11.8,0.64,7.3,0.49,0.55,8.9,0.56,1.08,8.0,kg/ha,Bhadra command irrigated
+2024-25,Karnataka,Hassan,Alur,12.9776,75.9935,312,15.1,215,10.6,0.88,5.8,0.22,0.44,24.5,0.74,1.42,14.2,kg/ha,Acidic red loam
+2024-25,Karnataka,Tumakuru,Gubbi,13.3118,76.9410,198,11.4,195,8.2,0.41,6.5,0.28,0.39,9.1,0.49,0.84,7.6,kg/ha,Red sandy loam low OC
+2024-25,Karnataka,Raichur,Sindhanur,15.7689,76.7574,242,19.2,365,16.4,0.48,8.2,1.15,0.85,5.1,0.38,1.10,6.2,kg/ha,Tungabhadra command slightly saline
+2024-25,Karnataka,Shivamogga,Bhadravati,13.8485,75.7050,328,17.6,232,12.2,0.94,5.6,0.19,0.48,28.4,0.81,1.51,15.8,kg/ha,Malnad acidic paddy belt
+2024-25,Karnataka,Vijayapura,Indi,17.1753,75.9630,192,12.6,425,14.8,0.39,8.3,0.82,0.78,4.1,0.36,1.02,5.3,kg/ha,Northern dry zone vertisol
+2024-25,Karnataka,Mandya,Maddur,12.5842,77.0448,245,18.4,268,12.5,0.62,6.9,0.42,0.58,11.2,0.52,1.15,8.4,kg/ha,Intentional duplicate QA row
+2024-25,Karnataka,Tumakuru,Sira,13.7414,76.9042,205,,210,7.9,0.44,11.8,0.31,0.42,8.5,,0.79,6.8,kg/ha,Intentional pH outlier and missing P/Zn QA row

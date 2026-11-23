@@ -1,0 +1,6 @@
+{
+  "name": "SoilSense AI",
+  "description": "Multilingual AI-powered agriculture decision-support platform for farmers across all Indian states with deterministic ICAR/FCO fertilizer optimization, soil analysis, and pan-India regional baselines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

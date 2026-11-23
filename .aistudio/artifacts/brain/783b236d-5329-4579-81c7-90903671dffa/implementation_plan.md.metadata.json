@@ -1,0 +1,6 @@
+{
+  "summary": "Complete architectural and product implementation plan for SoilSense AI — a unified Node.js + Express.js + React multilingual agriculture decision-support platform deployable on Vercel (serverless) and Render, featuring deterministic ICAR/FCO fertilizer optimization, soil report extraction, multilingual Gemini RAG assistant, PDF reporting, and Karnataka soil data foundation.",
+  "updatedAt": "2026-11-23T09:16:49.722505068Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
