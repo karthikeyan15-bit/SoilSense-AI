@@ -1,6 +1,6 @@
 {
   "sourceFile": "data/raw/soil_health_india/national_pilot_sample.csv",
-  "processedAt": "2026-11-23T10:17:40.423Z",
+  "processedAt": "2026-11-23T12:17:28.709Z",
   "totalRawRows": 15,
   "validCleanedRows": 13,
   "duplicateRowsRemoved": 1,
